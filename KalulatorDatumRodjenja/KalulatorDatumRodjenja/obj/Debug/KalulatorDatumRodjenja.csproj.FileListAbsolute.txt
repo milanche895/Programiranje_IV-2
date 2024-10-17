@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\KalulatorDatumRodjenja\KalulatorDatumRodjenja\bin\Debug\KalulatorDatumRodjenja.exe.config
+C:\Users\Admin\source\repos\KalulatorDatumRodjenja\KalulatorDatumRodjenja\bin\Debug\KalulatorDatumRodjenja.exe
+C:\Users\Admin\source\repos\KalulatorDatumRodjenja\KalulatorDatumRodjenja\bin\Debug\KalulatorDatumRodjenja.pdb
+C:\Users\Admin\source\repos\KalulatorDatumRodjenja\KalulatorDatumRodjenja\obj\Debug\KalulatorDatumRodjenja.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\KalulatorDatumRodjenja\KalulatorDatumRodjenja\obj\Debug\KalulatorDatumRodjenja.Form1.resources
+C:\Users\Admin\source\repos\KalulatorDatumRodjenja\KalulatorDatumRodjenja\obj\Debug\KalulatorDatumRodjenja.Properties.Resources.resources
+C:\Users\Admin\source\repos\KalulatorDatumRodjenja\KalulatorDatumRodjenja\obj\Debug\KalulatorDatumRodjenja.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\KalulatorDatumRodjenja\KalulatorDatumRodjenja\obj\Debug\KalulatorDatumRodjenja.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\KalulatorDatumRodjenja\KalulatorDatumRodjenja\obj\Debug\KalulatorDatumRodjenja.exe
+C:\Users\Admin\source\repos\KalulatorDatumRodjenja\KalulatorDatumRodjenja\obj\Debug\KalulatorDatumRodjenja.pdb

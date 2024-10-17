@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\OkvirZaTekst\OkvirZaTekst\bin\Debug\OkvirZaTekst.exe.config
+C:\Users\Admin\source\repos\OkvirZaTekst\OkvirZaTekst\bin\Debug\OkvirZaTekst.exe
+C:\Users\Admin\source\repos\OkvirZaTekst\OkvirZaTekst\bin\Debug\OkvirZaTekst.pdb
+C:\Users\Admin\source\repos\OkvirZaTekst\OkvirZaTekst\obj\Debug\OkvirZaTekst.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\OkvirZaTekst\OkvirZaTekst\obj\Debug\OkvirZaTekst.Form1.resources
+C:\Users\Admin\source\repos\OkvirZaTekst\OkvirZaTekst\obj\Debug\OkvirZaTekst.Properties.Resources.resources
+C:\Users\Admin\source\repos\OkvirZaTekst\OkvirZaTekst\obj\Debug\OkvirZaTekst.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\OkvirZaTekst\OkvirZaTekst\obj\Debug\OkvirZaTekst.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\OkvirZaTekst\OkvirZaTekst\obj\Debug\OkvirZaTekst.exe
+C:\Users\Admin\source\repos\OkvirZaTekst\OkvirZaTekst\obj\Debug\OkvirZaTekst.pdb

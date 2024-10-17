@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\PomeranjeNiza\PomeranjeNiza\bin\Debug\PomeranjeNiza.exe.config
+C:\Users\Admin\source\repos\PomeranjeNiza\PomeranjeNiza\bin\Debug\PomeranjeNiza.exe
+C:\Users\Admin\source\repos\PomeranjeNiza\PomeranjeNiza\bin\Debug\PomeranjeNiza.pdb
+C:\Users\Admin\source\repos\PomeranjeNiza\PomeranjeNiza\obj\Debug\PomeranjeNiza.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\PomeranjeNiza\PomeranjeNiza\obj\Debug\PomeranjeNiza.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PomeranjeNiza\PomeranjeNiza\obj\Debug\PomeranjeNiza.exe
+C:\Users\Admin\source\repos\PomeranjeNiza\PomeranjeNiza\obj\Debug\PomeranjeNiza.pdb
